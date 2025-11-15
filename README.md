@@ -15,6 +15,7 @@ https://hub.docker.com/repository/docker/bitsl40/custom-nginx/general
 
 
 Задача 4.
+
 ![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks/blob/main/4.png)
 
 
