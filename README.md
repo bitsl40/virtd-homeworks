@@ -11,3 +11,18 @@ https://hub.docker.com/repository/docker/bitsl40/custom-nginx/general
 ![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks/blob/main/3.2.png)
 ![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks/blob/main/3.3.png)
 ![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks/blob/main/3.4.png)
+
+
+
+Задача 4.
+![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks/blob/main/4.png)
+
+
+Задача 5.
+![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks/blob/main/5.png)
+![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks/blob/main/5.1.png)
+![Иллюстрация к проекту]()
+
+
+
+
