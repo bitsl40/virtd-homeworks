@@ -19,9 +19,10 @@ https://hub.docker.com/repository/docker/bitsl40/custom-nginx/general
 
 
 Задача 5.
+файл compose.yaml  - https://github.com/bitsl40/virtd-homeworks/blob/main/compose.yaml
 ![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks/blob/main/5.png)
 ![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks/blob/main/5.1.png)
-![Иллюстрация к проекту]()
+
 
 
 
